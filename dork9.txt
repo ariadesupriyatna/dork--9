@@ -1,0 +1,11 @@
+bisa dimodif,, misal genti bahasa atau ditambahin dan seterusnya
+
+inurl:product-list.php?id=
+intitle:"index of " "login.php"
+intitle:"index of " "log"
+inurl:robots filetype:txt
+inurl:"index.php?page=news.php"
+inurl:adminpanel
+index of:admin
+site:pastebin.com "password"
+intitle:"index of "/backup"
